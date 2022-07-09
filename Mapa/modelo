@@ -1,0 +1,36 @@
+#bibliotecas
+#
+#
+#
+
+struct <identificador>
+<bloco de comandos>
+};
+
+void <identificador>
+<bloco de comandos>
+};
+
+int main {void};
+
+<var>
+
+<bloco de comandos>
+
+--
+
+for <condicao> <bloco de comandos>
+      <teste condicional>;
+      
+teste de repetição <bloco de comandos>
+      <teste condicional>
+     <bloco de comandos>
+     
+     
+ switch : case
+ 
+ <bloco de comandos:bloco de comandos>;
+ 
+ return 0;
+ 
+ }
